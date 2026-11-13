@@ -413,7 +413,7 @@ The detailed penetration-testing report covering the modules above is available 
 ## 📁 Repository Structure
 
 ```text
-NETWORKWALKS--KARTHIKEYA-B084-WK2-FOOTPRINTING-AND-NETWORK-SCANNING/
+NETWORKWALKS--SIDDHANTHADITIYAA-B084-WK2-FOOTPRINTING-AND-NETWORK-SCANNING/
 ├── README.md
 └── screenshots/
     ├── PM1-1-whois.png
